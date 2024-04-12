@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.DS_Store
+*/*.mkv
+*/*.wav
+playground

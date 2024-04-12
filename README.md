@@ -7,6 +7,10 @@ Broを作る
 https://note.com/elyza/n/na405acaca130 
 
 - モデル
-https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b-fast-instruct
+
+- 
+  - https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b-fast-instruct
 
 - 参考
+  - モデル候補
+    - https://github.com/llm-jp/awesome-japanese-llm
